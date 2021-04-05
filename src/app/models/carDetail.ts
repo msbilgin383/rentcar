@@ -4,4 +4,7 @@ export interface CarDetail{
     dailyPrice:number
     brandName:string
     colorName:string
+    brandId:number
+    colorId:number
+    imagePath:string
 }
